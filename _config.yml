@@ -1,0 +1,16 @@
+url: LazsloBunz.github.io
+baseurl: "/olivelife"
+compass:
+  logo: "/images/compass.png"
+  author: Compass
+  tagline: The <a href='http://jekyllrb.com'>Jekyll</a> theme for your personal landing
+    page
+  include_content: true
+  include_analytics: false
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+title: Olive's Childhood
+description: Olive is a child.
+github_username: LazsloBunz
+theme: compass
